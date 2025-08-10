@@ -1,0 +1,7 @@
+spring:
+    application:
+        name: soap_v2
+
+soap:
+    numberconversion:
+        url: https://www.dataaccess.com/webservicesserver/numberconversion.wso
